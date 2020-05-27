@@ -20,11 +20,12 @@
 ## 5. Images and corresponding probability that predicted Wrong
 ![5](https://user-images.githubusercontent.com/55172294/83006337-0a107c80-a04d-11ea-945d-a6948a12370c.PNG)
 ## 1. Model 3:7Layers with 4 Convolution Layer
-
+![1](https://user-images.githubusercontent.com/55172294/83007829-30371c00-a04f-11ea-9691-30cca424df91.PNG)
 ## 2. Training with Training loss
-
+![2](https://user-images.githubusercontent.com/55172294/83007840-34633980-a04f-11ea-8641-085622c620f2.PNG)
 ## 3. Test Accuracy
-
+![3](https://user-images.githubusercontent.com/55172294/83007843-362cfd00-a04f-11ea-944e-fc59a9c81aad.PNG)
 ## 4. Images and corresponding probability that predicted Right
-
+![4](https://user-images.githubusercontent.com/55172294/83007847-375e2a00-a04f-11ea-91e1-dec0f76fbc30.PNG)
 ## 5. Images and corresponding probability that predicted Wrong
+![5](https://user-images.githubusercontent.com/55172294/83007852-3927ed80-a04f-11ea-8e3e-770747f025dd.PNG)
