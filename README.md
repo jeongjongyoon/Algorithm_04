@@ -1,6 +1,6 @@
 # Algorithm_04
 ## 1. Model 1:3Layers with 1 Convolution Layer
-1
+![1](https://user-images.githubusercontent.com/55172294/83002436-075f5880-a048-11ea-992e-394c81dbe92c.PNG)
 ## 2. Training with Training loss
 
 ## 3. Test Accuracy
