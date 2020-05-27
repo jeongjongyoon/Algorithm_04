@@ -1,6 +1,6 @@
 # Algorithm_04
 ## 1. Model 1:3Layers with 1 Convolution Layer
-
+1
 ## 2. Training with Training loss
 
 ## 3. Test Accuracy
